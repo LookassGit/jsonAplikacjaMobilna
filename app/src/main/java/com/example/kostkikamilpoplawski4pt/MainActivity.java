@@ -22,3 +22,4 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+//https://my-json-server.typicode.com/mechaniktgmobilne/pytania_retrofit
